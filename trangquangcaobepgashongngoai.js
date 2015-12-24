@@ -1,5 +1,5 @@
       //<![CDATA[
-	  var url_popup = 'http://bepteddy.com/bep-gas-hong-ngoai-d43.html';
+	  r url_popup = 'http://bepteddy.com/bep-gas-hong-ngoai-d43.html';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
