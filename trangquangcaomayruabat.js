@@ -1,5 +1,5 @@
       //<![CDATA[
-	  var url_popup = 'http://bepteddy.com/may-rua-chen-d30.html';
+	  r url_popup = 'http://bepteddy.com/may-rua-chen-d30.html';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
